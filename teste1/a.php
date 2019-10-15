@@ -1,3 +1,4 @@
 <?php
 #teste
+#Outro teste
 ?>
