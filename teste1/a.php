@@ -1,4 +1,0 @@
-<?php
-#teste
-#Outro teste
-?>
