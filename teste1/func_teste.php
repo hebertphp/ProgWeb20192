@@ -1,5 +1,6 @@
 <?php
 //exemplo de criação de funções
+// modificado agora!!
 function mostra($msg){
   echo "<b>$msg</b>";
 }
