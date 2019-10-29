@@ -15,7 +15,7 @@ obs varchar(200)
 
 $result = mysqli_query($conn,$query) or die ("Erro sql: ".mysqli_error($conn));
 
-echo "Tabela criado com Sucesso!";
+echo "Tabela criada com Sucesso!";
 
 
 mysqli_close($conn);
